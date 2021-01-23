@@ -1,2 +1,2 @@
-# myimg
-图床Ａ
+# 简图
+官方地址：https://img.oioweb.cn
